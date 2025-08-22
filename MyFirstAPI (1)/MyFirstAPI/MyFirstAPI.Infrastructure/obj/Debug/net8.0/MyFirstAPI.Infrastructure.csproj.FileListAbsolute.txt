@@ -1,0 +1,28 @@
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.deps.json
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.runtimeconfig.json
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.dll
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.pdb
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.dll
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\refint\MyFirstAPI.Infrastructure.dll
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.pdb
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\ighsaans\source\repos\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\ref\MyFirstAPI.Infrastructure.dll
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.deps.json
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.runtimeconfig.json
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.dll
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\bin\Debug\net8.0\MyFirstAPI.Infrastructure.pdb
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.dll
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\refint\MyFirstAPI.Infrastructure.dll
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.pdb
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\MyFirstAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\Thulisile Angel Malu\Downloads\MyFirstAPI (1)\MyFirstAPI\MyFirstAPI.Infrastructure\obj\Debug\net8.0\ref\MyFirstAPI.Infrastructure.dll
