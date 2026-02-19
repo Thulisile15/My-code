@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi.infrastructure\\myfirstapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|solutionrelative:myfirstapi.infrastructure\\myfirstapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89A8E19-04D2-4C4E-950F-C8FA18F012E2}|MyFirstAPI\\MyFirstAPI.csproj|solutionrelative:myfirstapi\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi.infrastructure\\myfirstapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|solutionrelative:myfirstapi.infrastructure\\myfirstapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi.infrastructure\\models\\todocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|solutionrelative:myfirstapi.infrastructure\\models\\todocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi.infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|solutionrelative:myfirstapi.infrastructure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi.infrastructure\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|solutionrelative:myfirstapi.infrastructure\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi.infrastructure\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|solutionrelative:myfirstapi.infrastructure\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|c:\\users\\thulisile angel malu\\downloads\\myfirstapi (1)\\myfirstapi\\myfirstapi.infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74483DC9-C6AA-470B-8564-2C08C22FF104}|MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj|solutionrelative:myfirstapi.infrastructure\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\appsettings.json",
+              "RelativeToolTip": "MyFirstAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T07:39:34.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyFirstAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\appsettings.Development.json",
+              "RelativeToolTip": "MyFirstAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T07:03:04.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyFirstAPI.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj",
+              "RelativeToolTip": "MyFirstAPI.Infrastructure\\MyFirstAPI.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T16:59:08.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\UserDetail.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI.Infrastructure\\Models\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\UserDetail.cs",
+              "RelativeToolTip": "MyFirstAPI.Infrastructure\\Models\\UserDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:58:18.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\ToDoCategory.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI.Infrastructure\\Models\\ToDoCategory.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\ToDoCategory.cs",
+              "RelativeToolTip": "MyFirstAPI.Infrastructure\\Models\\ToDoCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:58:12.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\Program.cs",
+              "RelativeToolTip": "MyFirstAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:58:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyFirstAPIDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\MyFirstAPIDBContext.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI.Infrastructure\\MyFirstAPIDBContext.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\MyFirstAPIDBContext.cs",
+              "RelativeToolTip": "MyFirstAPI.Infrastructure\\MyFirstAPIDBContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA0AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:24:37.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\Controllers\\ToDoItemController.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI\\Controllers\\ToDoItemController.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\Controllers\\ToDoItemController.cs",
+              "RelativeToolTip": "MyFirstAPI\\Controllers\\ToDoItemController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:45:21.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "MyFirstAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI\\Dockerfile",
+              "RelativeToolTip": "MyFirstAPI\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T07:22:52.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI.Infrastructure\\Models\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\ToDoItem.cs",
+              "RelativeToolTip": "MyFirstAPI.Infrastructure\\Models\\ToDoItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:58:16.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI.Infrastructure\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "MyFirstAPI.Infrastructure\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:00:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyFirstAPI.Infrastructure\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Thulisile Angel Malu\\Downloads\\MyFirstAPI (1)\\MyFirstAPI\\MyFirstAPI.Infrastructure\\Models\\Category.cs",
+              "RelativeToolTip": "MyFirstAPI.Infrastructure\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:58:11.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

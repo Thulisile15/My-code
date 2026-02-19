@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "MyFirstAPI.Controllers.ToDoItemController",
+    "Method": "GetToDoItems",
+    "RelativePath": "api/ToDoItem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MyFirstAPI.Infrastructure.Models.ToDoItem, MyFirstAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyFirstAPI.Controllers.ToDoItemController",
+    "Method": "PostToDoItem",
+    "RelativePath": "api/ToDoItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "toDoItem",
+        "Type": "MyFirstAPI.Infrastructure.Models.ToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MyFirstAPI.Infrastructure.Models.ToDoItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyFirstAPI.Controllers.ToDoItemController",
+    "Method": "GetToDoItem",
+    "RelativePath": "api/ToDoItem/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MyFirstAPI.Infrastructure.Models.ToDoItem",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyFirstAPI.Controllers.ToDoItemController",
+    "Method": "DeleteToDoItem",
+    "RelativePath": "api/ToDoItem/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
