@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Thulisile Maluleke | BIT graduate</title>
+  <link rel="stylesheet" href="styles.css" />
+  <meta name="description" content="Professional profile of Thulisile Maluleke, Bachelor of Information Technology graduate.">
+</head>
+<body>
+  <header class="container">
+    <div class="profile-header">
+      <div class="avatar" aria-hidden="true">YN</div>
+      <div>
+        <h1 id="name">Thulisile Maluleke</h1>
+        <p id="tagline"> Bachelor of Information Technology (BIT) graduate</p>
+        <ul class="contact">
+          <li><a id="email" href="mailto:you@example.com">s225166097@mandela.ac.za</a></li>
+          <li><a id="phone" href="tel:+1234567890">+27 66 216 1004</a></li>
+          <li><span id="location">Port Elizabeth, South Africa</span></li>
+          
+          <li><a id="github" href="https://github.com/yourhandle" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a id="linkedin" href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noopener">https://www.linkedin.com/in/thulisile-maluleke-9a407035a/</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>Profile</h2>
+      <p id="summary">A motivated Bachelor of information Technology graduate from the Nelson Mandela University with a strong academic grounding and hands-on experience in software development, web application, mobile development, networking and data analysis. Passionate about solving real-world problems through technology.</p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul class="skill-list" id="skills">
+        <li>Java</li>
+        <li>Web Development (HTML, CSS, JavaScript, python, C#, Java, JavaScript)</li>
+        <li>SQL</li>
+        <li>Data Structures, data modelling & Algorithms</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <article class="item">
+        <div class="item-header">
+          <h3 id="degree">B.I.T., [Nelson Mandela University</h3>
+          <span class="meta"><time id="edu-start">2022</time> – <time id="edu-end">Present</time></span>
+        </div>
+        <p id="edu-notes">Relevant coursework: Software Engineering, Databases, Networking, Cloud Computing, HCI.</p>
+        <ul class="bullets">
+          <li>GPA: 73</li>
+          <li>Awards: Merit Award</li>
+        </ul>
+      </article>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <div class="cards" id="projects">
+        <article class="card">
+          <div class="card-header">
+            <h3>Online Banking system</h3>
+            <span class="meta">[Tech: React, Node, MySQL]</span>
+          </div>
+          <p>This project helps clients to deposit, withdraw and do any other banking activites on the system.</p>
+          <ul class="bullets">
+            <li>Implemented [feature] improving [metric] by [X%].</li>
+            <li>Deployed on [platform]; wrote tests achieving [coverage %].</li>
+          </ul>
+          <div class="links">
+            <a href="#" target="_blank" rel="noopener">Live</a>
+            <a href="#" target="_blank" rel="noopener">Code</a>
+
+
+          </div>
+
+          <div class="card-header">
+            <h3>TutorFind Application</h3>
+            <span class="meta">[Tech: Java, Android Studio, MySQL, ASP.NET core]</span>
+          </div>
+          <p>Developed a full-stack mobile application connecting students with tutots for paid academic services.</p>
+          <p>Applied secure login systems and error handling for duplicate usernames and permission issues.</p>
+          
+          <div class="links">
+            <a href="#" target="_blank" rel="noopener">Live</a>
+            <a href="#" target="_blank" rel="noopener">Code</a>
+
+
+          </div>
+
+
+        </article>
+      </div>
+    </section>
+
+  
+
+    <section>
+      <h2>Achievements</h2>
+      <ul class="bullets" id="achievements">
+      
+        <li>Certification – Cisco Cybersecurity, 2022</li>
+        <li>Certification – Internet of things, 2022</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Extracurricular</h2>
+      <ul class="bullets" id="extracurricular">
+        <li>Role – Club/Community – 2024</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <button class="btn" onclick="window.print()">Download PDF</button>
+    <p>© <span id="year"></span> <span id="name-footer">[YOUR NAME]</span></p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+    const nameEl = document.getElementById('name');
+    if (nameEl) document.getElementById('name-footer').textContent = nameEl.textContent;
+  </script>
+</body>
+</html>
